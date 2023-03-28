@@ -1,13 +1,13 @@
-### Hi there, I'm Lukas 👋
+## Hi there, I'm Lukas 👋
 
-## Computer Science Student / Software developer
+### Computer Science Student / Software developer
 - 🔭 I’m currently studying at the University of Bonn and will finish my B.Sc. in Computer Science in September this year
 - 🌱 I’m currently learning / improving at: **Python & TypeScript**
 - 📫 Reach me @
 
   [![linkedIn](https://user-images.githubusercontent.com/84092952/228389618-fe2332a2-fbb9-43f1-9b91-418bd6105ee2.png)][1]
 
-## Languages and Tools
+### Languages and Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
