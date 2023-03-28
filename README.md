@@ -1,7 +1,7 @@
 ## Hi there, I'm Lukas 👋
 
 ### Computer Science Student / Software developer
-- 🔭 I’m currently studying at the University of Bonn and will finish my B.Sc. in Computer Science in September this year
+- 🎓 I’m currently studying at the University of Bonn and will finish my B.Sc. in Computer Science in September this year
 - 🌱 I’m currently learning / improving at: **Python & TypeScript**
 - 📫 Reach me @
 
