@@ -1,8 +1,9 @@
 ## Hi there, I'm Lukas 👋
 
-### Computer Science Student / Software developer
-- 🎓 I'm currently studying at the University of Bonn. I will finish my B.Sc. in Computer Science at the end of February 2024.
-- 🌱 I'm currently learning / improving at: **Python & TypeScript**
+### About me
+- 🎓 I'm currently studying at the University of Bonn. I will finish my B.Sc. in Computer Science in august 2024.
+- 🔭 For the last year I have been working on my bachelor thesis project, which automatically analyses Python functions for purity.
+- 🌱 I'm currently learning / improving at: **TypeScript & React**
 - 📫 Reach me @
 
   [![linkedIn](https://user-images.githubusercontent.com/84092952/228389618-fe2332a2-fbb9-43f1-9b91-418bd6105ee2.png)][1]
