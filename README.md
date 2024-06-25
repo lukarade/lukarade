@@ -2,7 +2,7 @@
 
 ### About me
 - 🎓 I'm currently studying at the University of Bonn. I will finish my B.Sc. in Computer Science in august 2024.
-- 🔭 For the last year I have been working on my bachelor thesis project, which automatically analyses Python functions for purity.
+- 🔭 I'm currently working on my bachelor thesis project, which automatically analyses Python functions for purity.
 - 🌱 I'm currently learning / improving at: **TypeScript & React**
 - 📫 Reach me @
 
