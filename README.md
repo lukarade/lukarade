@@ -4,7 +4,8 @@
 - 🎓 I studied at the University of Bonn and finished my bachelor's degree in Computer Science in August 2024.
 - 🔭 I lastly worked on my bachelor thesis project, which automatically analyzes Python functions for purity to enable memorization in the context of data science for the very first time.
 - 🏠 I moved to Hamburg to start my professional career as a software developer.
-- 🌱 I'm currently learning: **TypeScript & React**
+- 🌱 I'm currently working on some personal projects to improve at **TypeScript & React**
+- 🏢 I'm looking for a role as a frontend software developer.
 - 📫 Reach me @
 
   [![linkedIn](https://user-images.githubusercontent.com/84092952/228389618-fe2332a2-fbb9-43f1-9b91-418bd6105ee2.png)][1]
@@ -13,12 +14,12 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40" /> -->
 </p>
 
